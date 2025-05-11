@@ -1,0 +1,1 @@
+En esta carpeta se ubicaran ejemplos/consignas de uso basico de las variables en el lenguaje de programacion C
