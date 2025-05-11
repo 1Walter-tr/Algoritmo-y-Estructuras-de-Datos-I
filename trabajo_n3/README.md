@@ -1,0 +1,1 @@
+En esta carpeta se ubicaran los trabajos donde se tiene como principio la modularizacion/uso de funciones y estructuras de control en el lenguaje de programacion C
