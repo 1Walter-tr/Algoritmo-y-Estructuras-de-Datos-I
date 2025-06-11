@@ -1,0 +1,1 @@
+En esta carpeta se ubicaran los trabajos donde se tiene como principio entender la Estructura de Datos, incorporar el concepto de cadena de caracteres y manipular  las funciones relacionadas y el tipo de registro.
