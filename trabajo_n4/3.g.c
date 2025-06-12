@@ -25,9 +25,9 @@ bool esPalindromo(char palabra[]){
   for (int i = 0; i < longitud / 2; i++) { 
   //Iniciamos desde 0 hasta la mitad de la palabra para asi comparar de dos en dos
 
-    if (palabra[i] != palabra[longitud - i - 1]) { 
-    //Iniciamos la comparacion desde el principio que seria palabra[i] (0)
-    //Hasta la ultima letra desde el final que seria palabra[longitud - i - 1] (5-0-1)
+    if (palabra[i] != palabra[longitud - i - 1]){ 
+    //Iniciamos la comparacion desde el principio que seria palabra[i]  (indice 0)
+    //Hasta la ultima letra desde el final que seria palabra[longitud - i - 1] (indice longitud - 1)
         return false; //Detenemos el programa de inmediato si hay una diferencia
     }
 }
