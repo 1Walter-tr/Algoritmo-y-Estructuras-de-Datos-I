@@ -1,3 +1,11 @@
+/*La empresa YPF necesita un programa para gestionar las ventas  de combustible realizadas en el día. Por cada cliente se registran 
+los siguientes datos: Número de atención, código de tipo de Combustible: (1- Súper, 2-Infinia, 3-Diesel) e importe facturado.
+Se necesita obtener un listado de los clientes que cargaron nafta Súper  y que pagaron más de $ 50.000. Ejemplo de salida en pantalla: 
+*** Nro de atención: 25 - Importe facturado: $55.000 ***
+Al finalizar la jornada, se debe realizar un cierre de caja e informar la cantidad de clientes que cargaron combustible en el
+ día, el importe total facturado y el porcentaje que representa la cantidad de clientes que cargaron nafta súper sobre el total de clientes.
+El formato del informe debe ser el siguiente (Utilizar una constante para el título): 
+  Estación de Servicio YPF*/
 #include <stdio.h>
 #define TITULO "Servicio YPF"
 
@@ -18,7 +26,7 @@ int main(){
   do{
     printf("1-Ingresar cliente\n");
     printf("2-Mostrar listado de personas que cargaron super y monto superior a 50000\n");
-    printf("3-Cerrar caja\n");
+    printf("3-Mostrar total facturado en el dia caja\n");
     printf("4-Cerrar el programa\n");
     printf("Elija una de las opciones establecidas: ");
     scanf("%d",&opcion);
