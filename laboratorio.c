@@ -3,7 +3,7 @@ productos comprados por un cliente: cantidad, precio unitario y descripción. Se
 que un cliente puede comprar varios productos distintos. El cajero ingresará -1 como valor de cantidad 
 para indicar que terminó de ingresar los productos de un cliente. Se debe Imprimir el importe total a 
 pagar con el formato que se muestra a continuación: 
-******************************** 
+********************************* 
 TOTAL A PAGAR: $ 1800.00 
 ******************************** 
 ¡Gracias por su compra! 
