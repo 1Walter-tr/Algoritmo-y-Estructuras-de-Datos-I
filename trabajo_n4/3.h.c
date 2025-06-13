@@ -1,3 +1,6 @@
+/*.Definir los campos necesarios para modelar un registro de alumnos de la FaCENA (Facultad de Ciencias
+Exactas y Naturales y Agrimensura) que serán utilizados por el sistema SIU Guaraní. Luego, determinar el
+tipo y el tamaño de cada campo. Por último, calcular la longitud del registro.*/
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
