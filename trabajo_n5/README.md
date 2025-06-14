@@ -1,0 +1,1 @@
+En esta carpeta se ubicaran los trabajos donde se vera el uso de Datos Compuestos Indexados utilizando arreglos de una y dos dimensiones
